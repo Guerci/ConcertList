@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ConcertList</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_sign_in">Sign in</string>
+    <string name="sign_out">Sign out</string>
+
+
+    <!-- Dialog/Fragment names -->
+    <string name="dialog_new_concert">New Concert Dialog</string>
+    <string name="dialog_view_concert">View Concert Dialog</string>
+
+    <!-- Strings -->
+    <string name="concert_grup">Grup</string>
+    <string name="concert_poblacio">Població</string>
+    <string name="concert_lloc">Lloc</string>
+    <string name="concert_data">Data</string>
+    <string name="concert_preu">Preu</string>
+    <string name="pick_time">Hora</string>
+    <string name="pick_data">Data</string>
+</resources>

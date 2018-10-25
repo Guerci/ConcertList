@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "452027615410",
+    "firebase_url": "https://concerts-45a05.firebaseio.com",
+    "project_id": "concerts-45a05",
+    "storage_bucket": "concerts-45a05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452027615410:android:784988577818a2c6",
+        "android_client_info": {
+          "package_name": "com.example.jordi.concertlist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452027615410-pkcmip4pj9rpt5iarhuj9tccg264i45m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2OuxGU8sIZtlTOwRRmUOi1uPKUQschlU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452027615410:android:38fa5b1f85516c7f",
+        "android_client_info": {
+          "package_name": "com.example.jordi.concerts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452027615410-pkcmip4pj9rpt5iarhuj9tccg264i45m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2OuxGU8sIZtlTOwRRmUOi1uPKUQschlU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
